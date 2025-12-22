@@ -1,5 +1,5 @@
 {
-  "name": "Mubasher",
+  "name": "node-ws",
   "version": "1.0.0",
   "description": "Nodejs-server",
   "main": "index.js",
